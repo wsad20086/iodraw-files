@@ -8,64 +8,64 @@
           <mxGeometry x="1045" y="860" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l582pMot5ZS_DdxfJ0EF-3" value="订单编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="660" width="80" height="40" as="geometry" />
+          <mxGeometry x="960" y="440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l582pMot5ZS_DdxfJ0EF-5" value="商品表名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="730" width="80" height="40" as="geometry" />
+          <mxGeometry x="860" y="510" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l582pMot5ZS_DdxfJ0EF-7" value="用户id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="690" width="80" height="40" as="geometry" />
+          <mxGeometry x="900" y="470" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l582pMot5ZS_DdxfJ0EF-9" value="商品id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="950" width="80" height="40" as="geometry" />
+          <mxGeometry x="1260" y="680" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l582pMot5ZS_DdxfJ0EF-11" value="商品名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="1140" y="420" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l582pMot5ZS_DdxfJ0EF-13" value="商品图片" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="670" width="80" height="40" as="geometry" />
+          <mxGeometry x="1210" y="450" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l582pMot5ZS_DdxfJ0EF-15" value="购买数量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="780" width="80" height="40" as="geometry" />
+          <mxGeometry x="1300" y="560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l582pMot5ZS_DdxfJ0EF-17" value="价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="820" width="80" height="40" as="geometry" />
+          <mxGeometry x="1320" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l582pMot5ZS_DdxfJ0EF-19" value="总价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="910" width="80" height="40" as="geometry" />
+          <mxGeometry x="1300" y="690" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l582pMot5ZS_DdxfJ0EF-20" value="支付类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="860" width="80" height="40" as="geometry" />
+          <mxGeometry x="1310" y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l582pMot5ZS_DdxfJ0EF-22" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="970" width="80" height="40" as="geometry" />
+          <mxGeometry x="1170" y="700" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l582pMot5ZS_DdxfJ0EF-24" value="地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="970" width="80" height="40" as="geometry" />
+          <mxGeometry x="920" y="700" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l582pMot5ZS_DdxfJ0EF-26" value="电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="700" width="80" height="40" as="geometry" />
+          <mxGeometry x="1250" y="480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l582pMot5ZS_DdxfJ0EF-28" value="收货人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="740" width="80" height="40" as="geometry" />
+          <mxGeometry x="1280" y="520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l582pMot5ZS_DdxfJ0EF-30" value="物流" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="980" width="80" height="40" as="geometry" />
+          <mxGeometry x="1080" y="710" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l582pMot5ZS_DdxfJ0EF-32" value="备注" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="970" width="80" height="40" as="geometry" />
+          <mxGeometry x="1000" y="700" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l582pMot5ZS_DdxfJ0EF-34" value="商品名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="950" width="80" height="40" as="geometry" />
+          <mxGeometry x="840" y="680" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l582pMot5ZS_DdxfJ0EF-36" value="是否审核" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="870" width="80" height="40" as="geometry" />
+          <mxGeometry x="810" y="650" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l582pMot5ZS_DdxfJ0EF-38" value="审核回复" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="820" width="80" height="40" as="geometry" />
+          <mxGeometry x="790" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l582pMot5ZS_DdxfJ0EF-40" value="用户角色" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="770" width="80" height="40" as="geometry" />
+          <mxGeometry x="850" y="550" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
