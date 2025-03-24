@@ -27,10 +27,13 @@
         <mxCell id="te4OXCe9DlczYNRR60vE-43" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;创建时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="140" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="te4OXCe9DlczYNRR60vE-52" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;头像&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="240" width="120" height="80" as="geometry" />
+        <mxCell id="te4OXCe9DlczYNRR60vE-59" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="te4OXCe9DlczYNRR60vE-52" target="te4OXCe9DlczYNRR60vE-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="te4OXCe9DlczYNRR60vE-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="te4OXCe9DlczYNRR60vE-53" target="te4OXCe9DlczYNRR60vE-9">
+        <mxCell id="te4OXCe9DlczYNRR60vE-52" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;头像&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="te4OXCe9DlczYNRR60vE-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="te4OXCe9DlczYNRR60vE-53" target="te4OXCe9DlczYNRR60vE-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="360" as="targetPoint" />
           </mxGeometry>
@@ -38,14 +41,17 @@
         <mxCell id="te4OXCe9DlczYNRR60vE-53" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;用户名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="360" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="te4OXCe9DlczYNRR60vE-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="te4OXCe9DlczYNRR60vE-54" target="te4OXCe9DlczYNRR60vE-9">
+        <mxCell id="te4OXCe9DlczYNRR60vE-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="te4OXCe9DlczYNRR60vE-54" target="te4OXCe9DlczYNRR60vE-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="te4OXCe9DlczYNRR60vE-54" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;评论内容&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="360" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="te4OXCe9DlczYNRR60vE-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="te4OXCe9DlczYNRR60vE-55" target="te4OXCe9DlczYNRR60vE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="te4OXCe9DlczYNRR60vE-55" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;回复内容&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="250" width="120" height="80" as="geometry" />
+          <mxGeometry x="180" y="250" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
