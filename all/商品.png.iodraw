@@ -23,7 +23,7 @@
           <mxGeometry x="354" y="358" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aGLAvfPAtqf9NDsf1GOe-7" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;规格&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="382" y="358" width="120" height="80" as="geometry" />
+          <mxGeometry x="310" y="610" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aGLAvfPAtqf9NDsf1GOe-8" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;批号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="20" width="120" height="80" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="460" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aGLAvfPAtqf9NDsf1GOe-12" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;卖家账号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="410" width="120" height="80" as="geometry" />
+          <mxGeometry x="430" y="600" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aGLAvfPAtqf9NDsf1GOe-13" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;单限&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="410" width="120" height="80" as="geometry" />
