@@ -52,11 +52,11 @@
         <mxCell id="te4OXCe9DlczYNRR60vE-43" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;申请时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="te4OXCe9DlczYNRR60vE-44" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;申请时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="320" width="120" height="80" as="geometry" />
+        <mxCell id="te4OXCe9DlczYNRR60vE-44" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;审核回复&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="360" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="te4OXCe9DlczYNRR60vE-45" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;申请时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="330" width="120" height="80" as="geometry" />
+        <mxCell id="te4OXCe9DlczYNRR60vE-45" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;是否审核&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="460" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
