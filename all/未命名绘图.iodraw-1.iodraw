@@ -70,8 +70,11 @@
         <mxCell id="hXk7bv6ms9XwX4DxpUpW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hXk7bv6ms9XwX4DxpUpW-20" target="hXk7bv6ms9XwX4DxpUpW-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hXk7bv6ms9XwX4DxpUpW-23" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;修改密码&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hXk7bv6ms9XwX4DxpUpW-23" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;系统日志&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-500" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hXk7bv6ms9XwX4DxpUpW-24" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;修改密码&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
