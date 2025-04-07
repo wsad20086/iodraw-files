@@ -133,7 +133,7 @@
         <mxCell id="hXk7bv6ms9XwX4DxpUpW-58" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;系统界面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hXk7bv6ms9XwX4DxpUpW-69" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hXk7bv6ms9XwX4DxpUpW-69" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;修改&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="940" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
