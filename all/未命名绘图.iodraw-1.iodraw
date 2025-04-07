@@ -10,7 +10,7 @@
         <mxCell id="hXk7bv6ms9XwX4DxpUpW-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;开始&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hXk7bv6ms9XwX4DxpUpW-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hXk7bv6ms9XwX4DxpUpW-2" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
